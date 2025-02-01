@@ -37,6 +37,23 @@
 </a>
 
 
+## ```HEROKU DEPLOYMENT```
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Baymaxff/KAVI-EXE)
+---------
+
+## ```HEROKU TUTORIAL```
+[![Watch on YOUTUBE](https://img.shields.io/badge/youtube%20TUTORIAL-red?style=for-the-badge&logo=youtube)](https://youtu.be) 
+---------
+
+## ```STEPS TO DEPLOY ON HEROKU```
+
+- 1. Fork this repo (Don't forget to give a star)
+- 2. ***Get [SESSION-ID](https://play-lh.googleusercontent.com/901aMQFFnVoX2T-YuJmTIwpPve_SUgMv_QSyzMSPtAqt_l0CyXN1DxfD6xXU0r2f9iM=w240-h480-rw) by scanning QR code. `Whatapp>Three dots>Linked Devices`***
+- 3. Upload your session file.
+- 4. Simply click Deploy to heroku button above
+
+
   
  # Setup For Deployment 👇
 
@@ -55,6 +72,25 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
+
+## DEPLOY IN KOYEB    
+[![Deploy on Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/auth/signup)  
+
+## ```DEPLOY IN RAILWAY```
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
+  
+## DEPLOY IN COOLIFY    
+[![Deploy on COOLIFY](https://img.shields.io/badge/coolify%20Account-yellow?style=for-the-badge&logo=coolify)](http://65.21.52.72:3000/register)  
+
+## ```DEPLOY IN REPLIT```
+[![Run on Repl.it](https://repl.it/badge/github/dinuwah/QUEEN-HENTAI)](https://replit.com)
+
+## ```DEPLOY IN MOGENIUS```
+[![Deploy on Mogenius](https://telegra.ph/file/946d83b461457a3c1598c.png)](https://studio.mogenius.com/studio/cloud-space/cloud-space-overview)
+  
+## DEPLOY IN RENDER    
+[![Deploy on RENDER](https://img.shields.io/badge/render%20Account-green?style=for-the-badge&logo=render)](https://dashboard.render.com/registerundefined)  
 
 
   

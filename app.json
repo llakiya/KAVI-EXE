@@ -23,7 +23,7 @@
     
       "env": {
     "AUTO_STATUS_READ": {
-      "description": "true/false.",
+      "description": "put true or false.",
       "required": true
 },
 

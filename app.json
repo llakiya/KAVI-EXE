@@ -25,7 +25,8 @@
     "AUTO_STATUS_READ": {
       "description": "put true or false.",
       "required": true
-}
+    }
+},
 
      "buildpacks": [
         {

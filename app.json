@@ -19,7 +19,12 @@
     "ALIVE_MSG": {
       "description": "Put your alive msg here.",
       "required": true
-    }   
+    },
+    
+      "env": {
+    "AUTO_STATUS_READ": {
+      "description": "true/false.",
+      "required": true
 },
 
      "buildpacks": [
